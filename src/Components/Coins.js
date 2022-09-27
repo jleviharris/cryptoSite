@@ -1,5 +1,5 @@
 import React from "react";
-import CoinItem from "../Components/CoinItem";
+import CoinItem from "../Components/CoinItem.js";
 import Coin from "../routes/Coin";
 import { Link } from "react-router-dom";
 
